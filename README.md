@@ -1,4 +1,4 @@
-# Seed-Labs
+# Seed-Labs-Computer-Security
 ## Introduction
 
 This repository contains the Seed Labs, which is designed to understand different applications of Computer Security.
@@ -20,13 +20,13 @@ This repository contains the Seed Labs, which is designed to understand differen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Joshua-Ludolf/Morris-Worm-Seed-Lab.git
+    git clone https://github.com/Joshua-Ludolf/Seed-Labs-Computer-Security.git
     ```
 2. Navigate to the lab directory:
     ```bash
-    cd Morris-Worm-Seed-Lab
+    cd Seed-Labs-Computer-Security
     ```
-3. Follow the instructions from https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/
+3. Follow the instructions from https://seedsecuritylabs.org/Labs_20.04/
 
 ## License
 
